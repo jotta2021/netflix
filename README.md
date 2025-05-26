@@ -13,3 +13,7 @@ Este é um **clone da interface inicial da Netflix**, desenvolvido com **React**
 
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
+
+
+<img  src="https://github.com/jotta2021/netflix/blob/master/Captura%20de%20tela%202025-05-26%20150328.png?raw=true"/>
+<img  src="https://github.com/jotta2021/netflix/blob/master/Captura%20de%20tela%202025-05-26%20150149.png?raw=true"/>
