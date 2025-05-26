@@ -5,7 +5,7 @@ Este é um **clone da interface inicial da Netflix**, desenvolvido com **React**
 ## 🚀 Funcionalidades
 
 - 🎬 **Preview em destaque** com imagem, descrição e botão de play
-- 📂 Listagem de séries e filmes organizados por seções (baseado em um arquivo JSON local)
+- 📂 Listagem de séries  (baseado em um arquivo JSON local)
 - 🖱️ Navegação por **carrosséis horizontais**
 - 📱 Responsivo (funciona em desktop e mobile)
 
